@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Back-End`**
 
-Em transição de carreira, iniciei meus estudos com front-end (HTML, CSS, JavaScript) e também java. Visando me aprofundar no desenvolvimento de software estou me dedicando ao back-end e a linguagem a qual estou dedicando meu estudos é o C#. Em paralelo iniciei minha graduação em Engenharia de Software e já estou no 2º semestre.
+Em transição de carreira, iniciei meus estudos com front-end (HTML, CSS, JavaScript) depois afim de conhecer mais linguagens estudei um pouco de java. Visando me aprofundar no desenvolvimento de software estou me dedicando ao back-end com a linguagem C#. Em paralelo iniciei minha graduação em Engenharia de Software e já estou no 2º semestre.
 
 Tecnologias e linguagens estudadas
 
